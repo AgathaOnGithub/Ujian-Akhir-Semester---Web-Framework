@@ -30,13 +30,3 @@ Selamat datang di **SoundKabumi**, sebuah platform berbasis web untuk menjelajah
 - **Database**: MySQL
 - **Penyimpanan**: Penyimpanan lokal untuk gambar (direktori publik)
 
----
-
-## Instalasi
-
-Ikuti langkah-langkah berikut untuk menjalankan proyek ini secara lokal:
-
-1. **Clone repository**:
-   ```bash
-   git clone https://github.com/username-anda/soundkabumi.git
-   cd soundkabumi
