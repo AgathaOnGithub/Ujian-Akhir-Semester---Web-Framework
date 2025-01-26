@@ -29,7 +29,8 @@ Selamat datang di **SoundKabumi**, sebuah platform berbasis web untuk menjelajah
 ---
 ## Link Website
 https://soundkabumi.ummi-ti-22.site/
-
+for admin : email : admin@example.com
+password : admin123
 ## Instalasi
 
 Ikuti langkah-langkah berikut untuk menjalankan proyek ini secara lokal:
